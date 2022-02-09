@@ -1,9 +1,0 @@
-/Users/sadatmalik/Desktop/java-projects/sfg/microservices/inventory/src/main/java/com/sadatmalik/inventoryservice/web/model/BeerInventoryDto.java
-/Users/sadatmalik/Desktop/java-projects/sfg/microservices/inventory/src/main/java/com/sadatmalik/inventoryservice/bootstrap/BeerInvntoryBootstrap.java
-/Users/sadatmalik/Desktop/java-projects/sfg/microservices/inventory/src/main/java/com/sadatmalik/inventoryservice/domain/BaseEntity.java
-/Users/sadatmalik/Desktop/java-projects/sfg/microservices/inventory/src/main/java/com/sadatmalik/inventoryservice/web/controllers/BeerInventoryController.java
-/Users/sadatmalik/Desktop/java-projects/sfg/microservices/inventory/src/main/java/com/sadatmalik/inventoryservice/repositories/BeerInventoryRepository.java
-/Users/sadatmalik/Desktop/java-projects/sfg/microservices/inventory/src/main/java/com/sadatmalik/inventoryservice/web/mappers/DateMapper.java
-/Users/sadatmalik/Desktop/java-projects/sfg/microservices/inventory/src/main/java/com/sadatmalik/inventoryservice/web/mappers/BeerInventoryMapper.java
-/Users/sadatmalik/Desktop/java-projects/sfg/microservices/inventory/src/main/java/com/sadatmalik/inventoryservice/BeerInventoryApplication.java
-/Users/sadatmalik/Desktop/java-projects/sfg/microservices/inventory/src/main/java/com/sadatmalik/inventoryservice/domain/BeerInventory.java
