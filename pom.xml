@@ -10,9 +10,9 @@
 	</parent>
 
 	<groupId>com.sadatmalik</groupId>
-	<artifactId>inventory-microservice</artifactId>
+	<artifactId>ms-beer-inventory-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>inventory-microservice</name>
+	<name>ms-beer-inventory-service</name>
 	<description>Example inventory micro-service for Spring Boot</description>
 
 	<properties>
