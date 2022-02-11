@@ -1,8 +1,8 @@
 package com.sadatmalik.inventoryservice.web.controllers;
 
+import com.sadatmalik.brewery.model.BeerInventoryDto;
 import com.sadatmalik.inventoryservice.repositories.BeerInventoryRepository;
 import com.sadatmalik.inventoryservice.web.mappers.BeerInventoryMapper;
-import com.sadatmalik.inventoryservice.web.model.BeerInventoryDto;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.GetMapping;

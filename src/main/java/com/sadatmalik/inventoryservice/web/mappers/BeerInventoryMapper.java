@@ -1,7 +1,7 @@
 package com.sadatmalik.inventoryservice.web.mappers;
 
+import com.sadatmalik.brewery.model.BeerInventoryDto;
 import com.sadatmalik.inventoryservice.domain.BeerInventory;
-import com.sadatmalik.inventoryservice.web.model.BeerInventoryDto;
 import org.mapstruct.Mapper;
 
 @Mapper(uses = {DateMapper.class})

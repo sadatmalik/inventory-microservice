@@ -1,6 +1,6 @@
 package com.sadatmalik.inventoryservice.services;
 
-import com.sadatmalik.common.events.NewInventoryEvent;
+import com.sadatmalik.brewery.model.events.NewInventoryEvent;
 import com.sadatmalik.inventoryservice.config.JmsConfig;
 import com.sadatmalik.inventoryservice.domain.BeerInventory;
 import com.sadatmalik.inventoryservice.repositories.BeerInventoryRepository;

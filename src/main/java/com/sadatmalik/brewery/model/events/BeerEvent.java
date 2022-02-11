@@ -1,4 +1,4 @@
-package com.sadatmalik.common.events;
+package com.sadatmalik.brewery.model.events;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

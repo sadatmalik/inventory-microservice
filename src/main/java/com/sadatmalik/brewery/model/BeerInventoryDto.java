@@ -1,4 +1,4 @@
-package com.sadatmalik.inventoryservice.web.model;
+package com.sadatmalik.brewery.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
